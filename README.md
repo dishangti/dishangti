@@ -3,7 +3,6 @@
 - 🍻 Undergraduate at 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics_
 - ⚡ Python / Matlab / C / C++ / Java
 - ✍️&nbsp;[Blogger](https://blog.dishangti.com/)
-- &nbsp;<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="18" height="18" /><a href="https://orcid.org/0009-0005-3311-0454">&nbsp;&nbsp;0009-0005-3311-0454</a>
 - 📨 <a href="mailto:jifeng.luo@dishangti.com">jifeng.luo@dishangti.com</a>
 <!--
 - &nbsp;<img alt="Mastodon logo" src="https://joinmastodon.org/logos/logo-purple.svg" width="18" height="18" /><a href="https://m.cmx.im/@dishangti">&nbsp;@​dishangti@​m.cmx.im</a>
