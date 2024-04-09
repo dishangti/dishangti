@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 Undergraduate at 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics and Applied Mathematic_ (now)
+- 🏫 Undergraduate at 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics and Applied Mathematics_ (now)
 - 🍻 Graduate at 🇺🇸 [UChicago](https://www.uchicago.edu/en), _MS in Computational and Applied Mathematics_ (soon)
 - ⚡ Python / Matlab / C / C++ / Java
 - ✍️&nbsp;[Blogger](https://blog.dishangti.com/)
