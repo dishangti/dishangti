@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🍻 Undergraduate at 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics_
+- 🏫 Undergraduate at 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics and Applied Mathematic_ (now)
+- 🍻 Graduate at 🇺🇸 [UChicago](https://www.uchicago.edu/en), _MS in Computational and Applied Mathematics_ (soon)
 - ⚡ Python / Matlab / C / C++ / Java
 - ✍️&nbsp;[Blogger](https://blog.dishangti.com/)
 - 📨 <a href="mailto:jifeng.luo@dishangti.com">jifeng.luo@dishangti.com</a>
