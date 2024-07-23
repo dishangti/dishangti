@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🏫 Undergraduate at 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics and Applied Mathematics_ (now)
-- 🍻 Graduate at 🇺🇸 [UChicago](https://www.uchicago.edu/en), _MS in Computational and Applied Mathematics_ (soon)
+- 🏫 Undergraduate from 🇨🇳 [ECNU](https://www.ecnu.edu.cn), _BSc in Mathematics and Applied Mathematics_
+- 🍻 Graduate at 🇺🇸 [UChicago](https://www.uchicago.edu/en), _MS in Computational and Applied Mathematics_
 - ⚡ Python / Matlab / C / C++ / Java
 - ✍️&nbsp;[Blogger](https://blog.dishangti.com/)
 - 📨 <a href="mailto:jifeng.luo@dishangti.com">jifeng.luo@dishangti.com</a>/<a href="mailto:jfluo@uchicago.com">jfluo@uchicago.com</a>
