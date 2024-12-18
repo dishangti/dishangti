@@ -4,7 +4,7 @@
 - 🍻 Graduate at 🇺🇸 [UChicago](https://www.uchicago.edu/en), _MS in Computational and Applied Mathematics_
 - ⚡ Python / Matlab / C / C++ / Java
 - ✍️&nbsp;[Blogger](https://blog.dishangti.com/)
-- 📨 <a href="mailto:jifeng.luo@dishangti.com">jifeng.luo@dishangti.com</a>/<a href="mailto:jfluo@uchicago.com">jfluo@uchicago.com</a>
+- 📨 jifeng.luo#dishangti.com; jfluo#uchicago.edu
 <!--
 - &nbsp;<img alt="Mastodon logo" src="https://joinmastodon.org/logos/logo-purple.svg" width="18" height="18" /><a href="https://m.cmx.im/@dishangti">&nbsp;@​dishangti@​m.cmx.im</a>
 -->
